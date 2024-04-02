@@ -1,0 +1,15 @@
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\bin\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.exe
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\bin\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.deps.json
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\bin\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.runtimeconfig.json
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\bin\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.dll
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\bin\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.pdb
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.csproj.AssemblyReference.cache
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.AssemblyInfoInputs.cache
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.AssemblyInfo.cs
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.csproj.CoreCompileInputs.cache
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.dll
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\refint\Projeto - Sistema de Hospedagem de um Hotel.dll
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.pdb
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.genruntimeconfig.cache
+C:\Users\rodox\OneDrive\Cursos\DIO .NET\02 - Explorando a Linguagem C#\Projeto - Sistema de Hospedagem de um Hotel\obj\Debug\net6.0\ref\Projeto - Sistema de Hospedagem de um Hotel.dll
