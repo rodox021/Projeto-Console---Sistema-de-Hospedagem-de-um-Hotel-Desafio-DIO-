@@ -25,6 +25,9 @@ Suite suite = new Suite("Premium Casal", 2,150M );
 reserva.CadastrarSuite(suite);
 reserva.CadastrarHospedes(hospedes);
 
+Console.Clear();
+Menu.Opcoes();
+
 System.Console.WriteLine( reserva.Apresentacao());
 
 
