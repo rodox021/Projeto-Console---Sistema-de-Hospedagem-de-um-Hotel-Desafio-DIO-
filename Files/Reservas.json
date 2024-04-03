@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 4,
+    "Hospedes": [
+      {
+        "Nome": "Rodolfo Braga",
+        "Sobrenome": "Leal"
+      },
+      {
+        "Nome": "Juliana",
+        "Sobrenome": "Tbas"
+      }
+    ],
+    "Suite": {
+      "Numero": 101,
+      "TipoSuite": "Premiun Casal",
+      "Capacidade": 2,
+      "ValorDiaria": 150.0
+    },
+    "DiasReservados": 15
+  }
+]

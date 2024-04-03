@@ -28,3 +28,5 @@ C:\Users\rodox\Documents\GitHub\Projeto Console - Sistema de Hospedagem de um Ho
 C:\Users\rodox\Documents\GitHub\Projeto Console - Sistema de Hospedagem de um Hotel (Desafio DIO)\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.pdb
 C:\Users\rodox\Documents\GitHub\Projeto Console - Sistema de Hospedagem de um Hotel (Desafio DIO)\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.genruntimeconfig.cache
 C:\Users\rodox\Documents\GitHub\Projeto Console - Sistema de Hospedagem de um Hotel (Desafio DIO)\obj\Debug\net6.0\ref\Projeto - Sistema de Hospedagem de um Hotel.dll
+C:\Users\rodox\Documents\GitHub\Projeto Console - Sistema de Hospedagem de um Hotel (Desafio DIO)\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rodox\Documents\GitHub\Projeto Console - Sistema de Hospedagem de um Hotel (Desafio DIO)\obj\Debug\net6.0\Projeto - Sistema de Hospedagem de um Hotel.csproj.CopyComplete

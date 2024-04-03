@@ -1,0 +1,26 @@
+[
+    {
+        "Numero": 101,
+        "TipoSuite": "Premiun Casal",
+        "Capacidade": 2,
+        "ValorDiaria": 150
+    },
+    {
+        "Numero": 201,
+        "TipoSuite": "Basico Familia",
+        "Capacidade": 3,
+        "ValorDiaria": 200
+    },
+    {
+        "Numero": 301,
+        "TipoSuite": "Premiun Familia",
+        "Capacidade": 5,
+        "ValorDiaria": 300
+    },
+    {
+        "Numero": 102,
+        "TipoSuite": "Premiun Self",
+        "Capacidade": 1,
+        "ValorDiaria": 95
+    }
+]
